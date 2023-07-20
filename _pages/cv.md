@@ -33,6 +33,7 @@ Skills
 -- Project or Practice
 ======
 * pass
+
 <!-- Publications
 ======
   <ul>{% for post in site.publications %}
