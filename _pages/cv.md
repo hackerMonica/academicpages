@@ -61,7 +61,7 @@ A information management system for cats , which needs full stack developing abi
 
 [WEBSITE](https://hackermonica.me/)
 
-A anime website powered by my automatic script and alist project
+A anime website powered by my automatic script and alist project.
 
 * Video updating automatically by script
 * Beautiful appearance
