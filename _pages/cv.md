@@ -8,27 +8,27 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[pdf file](/files/Haoran_Long_s_R%C3%A9sum%C3%A9.pdf)
 Education
 ======
-* B.S. in GitHub, GitHub University, 2020
+* B.S. in GitHub, Harbin Institute of technology, 2020
 
 Work experience
 ======
 * N/A
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 -- Publications
 ======
 * N/A
+
+Skills
+======
+* very experienced in Java programming
+* very experienced in Godot engine (godot script)
+* basically grasp
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
 -- Project or Practice
 ======
