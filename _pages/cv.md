@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[pdf file](./files/Haoran_Long_s_CV.pdf)
+[pdf file](https://blog.hackermonica.me/academicpages/files/Haoran_Long_s_CV.pdf)
 
 Education
 ======
