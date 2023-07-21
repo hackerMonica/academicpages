@@ -14,6 +14,15 @@ Education
 ======
 * B.S. in Computer Science (CS), Harbin Institute of Technology, Shenzhen (HITsz) Sep. 2020 -- present
 
+
+Research Interests
+======
+* Information Visualization
+* Computer vision
+* Network Computing
+* Natural Language Processing
+
+
 Project or Practice
 ======
 ## -- Airplane War Game -- Jun. 2022
