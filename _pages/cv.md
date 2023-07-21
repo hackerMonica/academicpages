@@ -45,7 +45,7 @@ XV6 project as OS course experiment project
 I actually finish the project without any pain and every single section of experiment only take me about a night.
 
 ## -- Cat Information Management System -- Dec. 2022
-*GDScript, Appearance Design, PHP, Linux, full stack  Individual Course Projects
+*GDScript, Appearance Design, PHP, Linux, full stack  Individual Course Projects*
 
 [GITHUB](https://github.com/hackerMonica/CatInfoManageSystem)
 
