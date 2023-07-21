@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[pdf file](/files/Haoran_Long_s_R%C3%A9sum%C3%A9.pdf)
+[pdf file](../files/Haoran_Long_s_R%C3%A9sum%C3%A9.pdf)
 Education
 ======
 * B.S. in GitHub, Harbin Institute of technology, 2020
