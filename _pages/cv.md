@@ -19,9 +19,10 @@ Project or Practice
 ## -- Airplane War Game -- Jun. 2022
 *GDScript, Appearance Design*  Cooperative Course Projects with a [partner](https://github.com/eastonman)
 
+[GITHUB](https://github.com/eastonman/trivialwar)
+
 A great airplane war game with nice appearance. My role is about front-end page and interaction with player.
 
-[GITHUB](https://github.com/eastonman/trivialwar)
 
 ## -- RISCv CPU Design -- Jul. 2022
 *verilog, Linux, CPU Design  Individual Course Projects*
