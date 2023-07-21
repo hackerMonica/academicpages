@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[pdf file](../files/Haoran_Long_s_CV)
+[pdf file](../files/Haoran_Long_s_CV.pdf)
 
 Education
 ======
