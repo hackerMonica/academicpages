@@ -24,6 +24,7 @@ Research Interests
 Project or Practice
 ======
 -- Airplane War Game -- Jun. 2022
+======
 *GDScript, Appearance Design*  Cooperative Course Projects with a [partner](https://github.com/eastonman)
 
 [GITHUB](https://github.com/eastonman/trivialwar)
@@ -32,6 +33,7 @@ A great airplane war game with nice appearance. My role is about front-end page 
 
 
 -- RISCv CPU Design -- Jul. 2022
+======
 *verilog, Linux, CPU Design  Individual Course Projects*
 
 [GITHUB](https://github.com/hackerMonica/cpu_stream_model)
@@ -43,6 +45,7 @@ I actually finish this project in a very short time and the implement doesn't ne
 
 
 -- XV6 OS Experiment -- Sep. 2022 -- Nov. 2022
+======
 *C, Linux, OS Design  Course Projects*
 
 [GITHUB](https://github.com/hackerMonica/xv6_OSlab)
@@ -52,6 +55,7 @@ XV6 project as OS course experiment project
 I actually finish the project without any pain and every single section of experiment only take me about a night.
 
 -- Cat Information Management System -- Dec. 2022
+======
 *GDScript, Appearance Design, PHP, Linux, full stack  Individual Course Projects*
 
 [GITHUB](https://github.com/hackerMonica/CatInfoManageSystem)
@@ -64,6 +68,7 @@ A information management system for cats , which needs full stack developing abi
 * Window adaptation written myself
 
 -- Anime Website *for small scale usage* -- Mar. 2023
+======
 *Python, Linux  Individual Projects*
 
 [WEBSITE](https://hackermonica.me/)
