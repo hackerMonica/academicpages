@@ -23,6 +23,7 @@ Research Interests
 
 Project or Practice
 ======
+
 -- Airplane War Game -- Jun. 2022
 ======
 *GDScript, Appearance Design*  Cooperative Course Projects with a [partner](https://github.com/eastonman)
