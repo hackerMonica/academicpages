@@ -12,7 +12,7 @@ Education
 ======
 * B.S. in Computer Science (CS), Harbin Institute of Technology, Shenzhen (HITsz)
   <p align="right">Sep. 2020 -- present</p>
-  </br>General GPA: 3.561/4,  General Average Score: 87.438/100
+  General GPA: 3.561/4,  General Average Score: 87.438/100
 
 Research Interests
 ======
