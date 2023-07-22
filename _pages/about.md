@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science (CS), Harbin Institute of Technology, Shenzhen (HITsz) Sep. 2020 -- present
-
+General GPA: 3.561/4,  General Average Score: 87.438/100
 
 Research Interests
 ======
@@ -68,17 +68,6 @@ A information management system for cats , which needs full stack developing abi
 * Beautiful appearance with customized mouse cursor
 * Window adaptation written myself
 
--- Anime Website *for small scale usage* -- Mar. 2023
-======
-*Python, Linux* -- Individual Projects
-
-[WEBSITE](https://hackermonica.me/)
-
-A anime website powered by my automatic script and alist project.
-
-* Video updating automatically by script
-* Beautiful appearance
-
 
 Skills
 ======
@@ -90,6 +79,7 @@ Skills
 	* For building website on Linux server (locating at German), I have many experience using Linux system.
 * Development: Back-end, PC (with Java or Godot) and common deeplearning programming
 	* I'm actually a full stack programmer, but my JS is not experienced so I build application with Godot engine usually.
+* Other: Markdown and Latex writting
 
 Work Experience
 ======
@@ -98,3 +88,9 @@ Work Experience
 Publications
 ======
 * N/A
+
+self-assessment
+======
+Own great ability on practice, but did not well on curriculum exams mainly in my first year of college. I grasp practical knowledge rapidly while academic ones a little bit slower.
+
+I like exercising and I am used to run several times a week. Besides, I like to use Linux system and I build my own NAS and [anime website](https://hackermonica.me) recently.
