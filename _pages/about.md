@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "welcome to Haoran Long's academic personal websites"
+title: "Welcome to Haoran Long's academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -33,12 +33,12 @@ Project or Practice
 
 [GITHUB](https://github.com/hackerMonica/CatInfoManageSystem)
 
-A information management system for cats , which needs full stack developing ability.
+An information management system for cats, which needs full stack developing ability.
 
-* Basic login, signup function and so on
+* Basic login, signup function, and so on
 * Automatically login feature
-* Beautiful appearance with customized mouse cursor
-* Window adaptation written myself
+* Beautiful appearance with a customized mouse cursor
+* Window adaptation written by myself
 
 -- XV6 OS Experiment -- Sep. 2022 -- Nov. 2022
 ======
@@ -48,17 +48,17 @@ A information management system for cats , which needs full stack developing abi
 
 XV6 project as OS course experiment project
 
-I actually finish the project without any pain and every single section of experiment only take me about a night.
+I finished the project without pain, and every section of the experiment only took me about a night.
 
 -- RISCv CPU Design -- Jul. 2022
 ======
-*verilog, Linux, CPU Design* -- Individual Course Projects
+*Verilog, Linux, CPU Design* -- Individual Course Projects
 
 [GITHUB](https://github.com/hackerMonica/cpu_stream_model)
 
 RISCv CPU individually designed without any pipeline stall.
 
-I actually finish this project in a very short time and the implement doesn't need any pipeline stall which is necessary for pipeline teacher told
+I finished this project in a very short time, and the implementation doesn't need any pipeline stall, which is necessary for the pipeline teacher told.
 
 -- Airplane War Game -- Jun. 2022
 ======
@@ -66,28 +66,21 @@ I actually finish this project in a very short time and the implement doesn't ne
 
 [GITHUB](https://github.com/eastonman/trivialwar)
 
-A great airplane war game with nice appearance. My role is about front-end page and interaction with player.
-
-
-
-
-
-
-
+An excellent airplane war game with a good appearance. My role is about the front-end page and interaction with the player.
 
 
 
 Skills
 ======
 * Programming Languages: Java == Godot > C == Python == PHP > C++ == JavaScript
-	* I'm experienced at Java and Godot, while using C, Python or PHP to write some simple application is also easy for me.
-	* I could use Python (pytorch) to train some common deeplearning network
-	* C++, JS and some popular languages are basically grasped but I could only read or write some code in built framework.
+    * I'm experienced in Java and Godot. Besides, using C, Python, or PHP to write simple applications is also easy.
+    * I could use Python (pytorch) to train some common deep-learning network
+    * C++, JS, and some popular languages are basically grasped, but I could only read or write some code in built framework.
 * Platform: Linux
-	* For building website on Linux server (locating at German), I have many experience using Linux system.
-* Development: Back-end, PC (with Java or Godot) and common deeplearning programming
-	* I'm actually a full stack programmer, but my JS is not experienced so I build application with Godot engine usually.
-* Other: Markdown and Latex writting
+    * For building a website on a Linux server (located in German), I have much experience using Linux systems.
+* Development: Back-end, PC (with Java or Godot), and common deep-learning programming
+    * I'm actually a full-stack programmer, but my JS is not experienced, so I usually build applications with the Godot engine.
+* Other: Markdown and Latex writing
 
 Work Experience
 ======
@@ -99,6 +92,6 @@ Publications
 
 self-assessment
 ======
-Own great ability on practice, but did not well on curriculum exams mainly in my first year of college. I grasp practical knowledge rapidly while academic ones a little bit slower.
+Own great ability in practice, but could have done better on curriculum exams, mainly in my first year of college. I grasp practical knowledge rapidly, while academic ones are slightly slower.
 
-I like exercising and I am used to run several times a week. Besides, I like to use Linux system and I build my own NAS and [anime website](https://hackermonica.me) recently.
+I like exercising, and I am used to running several times a week. Besides, I like using Linux systems, and I recently built my own NAS and [anime website](https://hackermonica.me).
