@@ -27,37 +27,6 @@ Research Interests
 Project or Practice
 ======
 
--- Airplane War Game -- Jun. 2022
-======
-*GDScript, Appearance Design* -- Cooperative Course Projects with a [partner](https://github.com/eastonman)
-
-[GITHUB](https://github.com/eastonman/trivialwar)
-
-A great airplane war game with nice appearance. My role is about front-end page and interaction with player.
-
-
--- RISCv CPU Design -- Jul. 2022
-======
-*verilog, Linux, CPU Design* -- Individual Course Projects
-
-[GITHUB](https://github.com/hackerMonica/cpu_stream_model)
-
-RISCv CPU individually designed without any pipeline stall.
-
-I actually finish this project in a very short time and the implement doesn't need any pipeline stall which is necessary for pipeline teacher told
-
-
-
--- XV6 OS Experiment -- Sep. 2022 -- Nov. 2022
-======
-*C, Linux, OS Design* -- Course Projects
-
-[GITHUB](https://github.com/hackerMonica/xv6_OSlab)
-
-XV6 project as OS course experiment project
-
-I actually finish the project without any pain and every single section of experiment only take me about a night.
-
 -- Cat Information Management System -- Dec. 2022
 ======
 *GDScript, Appearance Design, PHP, Linux, full stack* -- Individual Course Projects
@@ -70,6 +39,42 @@ A information management system for cats , which needs full stack developing abi
 * Automatically login feature
 * Beautiful appearance with customized mouse cursor
 * Window adaptation written myself
+
+-- XV6 OS Experiment -- Sep. 2022 -- Nov. 2022
+======
+*C, Linux, OS Design* -- Course Projects
+
+[GITHUB](https://github.com/hackerMonica/xv6_OSlab)
+
+XV6 project as OS course experiment project
+
+I actually finish the project without any pain and every single section of experiment only take me about a night.
+
+-- RISCv CPU Design -- Jul. 2022
+======
+*verilog, Linux, CPU Design* -- Individual Course Projects
+
+[GITHUB](https://github.com/hackerMonica/cpu_stream_model)
+
+RISCv CPU individually designed without any pipeline stall.
+
+I actually finish this project in a very short time and the implement doesn't need any pipeline stall which is necessary for pipeline teacher told
+
+-- Airplane War Game -- Jun. 2022
+======
+*GDScript, Appearance Design* -- Cooperative Course Projects with a [partner](https://github.com/eastonman)
+
+[GITHUB](https://github.com/eastonman/trivialwar)
+
+A great airplane war game with nice appearance. My role is about front-end page and interaction with player.
+
+
+
+
+
+
+
+
 
 
 Skills
