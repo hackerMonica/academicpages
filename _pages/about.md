@@ -14,6 +14,8 @@ Education
   <p align="right">Sep. 2020 -- present</p>
   General GPA: 3.561/4,  General Average Score: 87.438/100
 
+  Sophomore year Average Score: 89.263 | Junior year Average Score: 92.667
+
 Research Interests
 ======
 * Information Visualization
