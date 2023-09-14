@@ -29,13 +29,13 @@ Research Interests
 Project or Practice
 ======
 
--- hitszacgn open source organization -- Mar. 2023 -- present
+-- XX-ACGN Open Source Organization -- Mar. 2023 -- present
 ======
-*Python, Linux, Markdown* -- open source Projects
+*Python, Linux, Markdown* -- Open Source Projects
 
-[GITHUB](https://github.com/hitszacgn/AutoAnime/tree/main) [BLOG](https://blog.hackermonica.me/2023/09/08/anime-web-build/) [WEBSITE](https://hackermonica.me/)
+[GITHUB](https://github.com/hackerMonica/AutoAnime) [BLOG](https://blog.hackermonica.me/2023/09/08/anime-web-build/) [WEBSITE](https://hackermonica.me/)
 
-Participate in the HITSZACGN open-source organization dedicated to making and maintaining our own ACGN websites. I'm responsible for the A (anime) part, owning and maintaining the anime website and blog.
+Participate in the XX-ACGN open-source organization dedicated to making and maintaining our club's own ACGN websites. I'm responsible for the A (anime) part, building and maintaining the anime website and blog.
 
 -- Cat Information Management System -- Dec. 2022
 ======
