@@ -29,6 +29,14 @@ Research Interests
 Project or Practice
 ======
 
+-- hitszacgn open source organization -- Mar. 2023 -- present
+======
+*Python, Linux, Markdown* -- open source Projects
+
+[GITHUB](https://github.com/hitszacgn/AutoAnime/tree/main)
+
+Participate in the HITSZACGN open-source organization dedicated to making and maintaining our own ACGN websites. I'm responsible for the A (anime) part, owning and maintaining the anime website and blog.
+
 -- Cat Information Management System -- Dec. 2022
 ======
 *GDScript, Appearance Design, PHP, Linux, full stack* -- Individual Course Projects
@@ -96,4 +104,4 @@ self-assessment
 ======
 Own great ability in practice, but could have done better on curriculum exams, mainly in my first year of college. I grasp practical knowledge rapidly, while academic ones are slightly slower.
 
-I like exercising, and I am used to running several times a week. Besides, I like using Linux systems, and I recently built my own NAS and [anime website](https://hackermonica.me).
+I like exercising, and I am used to running several times a week. Besides, I like using Linux systems, and I recently built my own NAS.
