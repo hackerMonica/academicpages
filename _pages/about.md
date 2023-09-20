@@ -108,4 +108,4 @@ self-assessment
 ======
 Own great ability in practice, but could have done better on curriculum exams, mainly in my first year of college. I grasp practical knowledge rapidly, while academic ones are slightly slower.
 
-I like exercising, and I am used to running several times a week. Besides, I like using Linux systems, and I recently built my own NAS.
+I like exercising, and I am used to running several times a week. Besides, I like using Linux systems, and I recently built my own NAS and academic page.
