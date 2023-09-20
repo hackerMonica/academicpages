@@ -29,9 +29,13 @@ Research Interests
 Project or Practice
 ======
 
+-- Video Subtitle Generation and Translation -- Sep. 2023 -- present
+======
+*Python, NLP* -- Graduation Project
+
 -- XX-ACGN Open-Source Organization -- Mar. 2023 -- present
 ======
-*Python, Linux, Markdown* -- Open-Source Projects
+*Python, Linux, Markdown* -- Open-Source Project
 
 [GITHUB](https://github.com/hackerMonica/AutoAnime) [BLOG](https://blog.hackermonica.me/2023/09/08/anime-web-build/) [WEBSITE](https://hackermonica.me/)
 
@@ -39,7 +43,7 @@ Participate in the XX-ACGN open-source organization dedicated to making and main
 
 -- Cat Information Management System -- Dec. 2022
 ======
-*GDScript, Appearance Design, PHP, Linux, full stack* -- Individual Course Projects
+*GDScript, Appearance Design, PHP, Linux, full stack* -- Individual Course Project
 
 [GITHUB](https://github.com/hackerMonica/CatInfoManageSystem)
 
@@ -52,7 +56,7 @@ An information management system for cats, which needs full stack developing abi
 
 -- XV6 OS Experiment -- Sep. 2022 -- Nov. 2022
 ======
-*C, Linux, OS Design* -- Course Projects
+*C, Linux, OS Design* -- Course Project
 
 [GITHUB](https://github.com/hackerMonica/xv6_OSlab)
 
@@ -62,7 +66,7 @@ I finished the project without pain, and every section of the experiment only to
 
 -- RISCv CPU Design -- Jul. 2022
 ======
-*Verilog, Linux, CPU Design* -- Individual Course Projects
+*Verilog, Linux, CPU Design* -- Individual Course Project
 
 [GITHUB](https://github.com/hackerMonica/cpu_stream_model)
 
@@ -72,7 +76,7 @@ I finished this project in a very short time, and the implementation doesn't nee
 
 -- Airplane War Game -- Jun. 2022
 ======
-*GDScript, Appearance Design* -- Cooperative Course Projects with a [partner](https://github.com/eastonman)
+*GDScript, Appearance Design* -- Cooperative Course Project with a [partner](https://github.com/eastonman)
 
 [GITHUB](https://github.com/eastonman/trivialwar)
 
