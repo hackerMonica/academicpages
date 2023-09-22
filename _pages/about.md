@@ -18,10 +18,10 @@ Education
 
 Research Interests
 ======
+* Natural Language Processing
 * Information Visualization
 * Computer Graphics
 * Computer vision
-* Natural Language Processing
 * Network Computing
 
 <!-- * Network Computing
