@@ -21,7 +21,7 @@ Research Interests
 * Natural Language Processing
 * Information Visualization
 * Computer Graphics
-* Computer vision
+* Computer Vision
 * Network Computing
 
 <!-- * Network Computing
