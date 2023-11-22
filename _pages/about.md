@@ -12,7 +12,7 @@ Education
 ======
 * B.S. in Computer Science (CS), Harbin Institute of Technology, Shenzhen (HITsz)
   <p align="right">Sep. 2020 -- present</p>
-  Overall GPA: 3.561/4,  Overall Average Score: 87.438/100
+  Overall GPA: 3.562/4,  Overall Average Score: 87.701/100
 
   Sophomore year Average Score: 89.263, Junior year Average Score: 92.667
 
@@ -28,7 +28,7 @@ Research Interests
 * Natural Language Processing -->
 
 
-Project or Practice
+Projects
 ======
 
 -- Video Subtitle Generation and Translation -- Sep. 2023 -- present
@@ -84,7 +84,18 @@ I finished this project in a very short time, and the implementation doesn't nee
 
 An excellent airplane war game with a good appearance. My role is about the front-end page and interaction with the player.
 
+Practice
+======
 
+-- Volunteer Training in the Shenzhen League School -- Oct. 2023
+======
+
+I participated in this volunteer training, learned first aid knowledge and skills and obtained the training certificate, which will enable me to help people around me in the future when they are in emergency.
+
+-- Bronze Prize of the 5th HITsz Programing Contest -- Sep. 2023
+======
+
+The 5th HITsz Programing Contest (哈尔滨工业大学（深圳）第五届程序设计竞赛) is an intra-school contest about programming. My rank in it is 121/383, showing my ability in programming algorithms.
 
 Skills
 ======
