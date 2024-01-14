@@ -14,7 +14,7 @@ Education
   <p align="right">Sep. 2020 -- present</p>
   Overall GPA: 3.562/4,  Overall Average Score: 87.701/100
 
-  Sophomore year Average Score: 89.263, Junior year Average Score: 92.667
+  <!-- Sophomore year Average Score: 89.263, Junior year Average Score: 92.667 -->
 
 Research Interests
 ======
