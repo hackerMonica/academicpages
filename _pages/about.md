@@ -12,17 +12,15 @@ Education
 ======
 * B.S. in Computer Science (CS), Harbin Institute of Technology, Shenzhen (HITsz)
   <p align="right">Sep. 2020 -- present</p>
-  Overall GPA: 3.562/4,  Overall Average Score: 87.701/100
+  Overall GPA: 3.56/4,  Overall Average Score: 87.24/100
 
   <!-- Sophomore year Average Score: 89.263, Junior year Average Score: 92.667 -->
 
 Research Interests
 ======
 * Natural Language Processing
-* Information Visualization
 * Computer Graphics
 * Computer Vision
-* Network Computing
 
 <!-- * Network Computing
 * Natural Language Processing -->
@@ -31,7 +29,7 @@ Research Interests
 Projects
 ======
 
--- Video Subtitle Generation and Translation -- Sep. 2023 -- present
+-- Video Subtitle Generation and Translation -- Sep. 2023 -- May. 2024
 ======
 *Python, NLP* -- Graduation Project
 
