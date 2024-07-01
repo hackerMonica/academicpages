@@ -33,6 +33,8 @@ Projects
 ======
 *Python, NLP* -- Graduation Project
 
+[GITHUB](https://github.com/hackerMonica/realtime_asr_tranlation_system) [HUGGINGFACE](https://huggingface.co/HackerMonica/nllb-200-distilled-600M-en-zh_CN)
+
 -- XX-ACGN Open-Source Organization -- Mar. 2023 -- present
 ======
 *Python, Linux, Markdown* -- Open-Source Project
