@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science (CS), Harbin Institute of Technology, Shenzhen (HITsz)
-  <p align="right">Sep. 2020 -- present</p>
+  <p align="right">Sep. 2020 -- Jun. 2024</p>
   Overall GPA: 3.56/4,  Overall Average Score: 87.23/100
 
   <!-- Sophomore year Average Score: 89.263, Junior year Average Score: 92.667 -->
