@@ -28,7 +28,7 @@ Research Interests
 Employment
 ======
 * Research Assistant in Harbin Institute of Technology, Shenzhen (HITsz)
- <p align="right">Aug. 2024 –- present</p>
+  <p align="right">Aug. 2024 –- present</p>
 
 Projects
 ======
