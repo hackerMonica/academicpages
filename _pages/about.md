@@ -25,6 +25,10 @@ Research Interests
 <!-- * Network Computing
 * Natural Language Processing -->
 
+Employment
+======
+* Research Assistant in Harbin Institute of Technology, Shenzhen (HITsz)
+ <p align="right">Aug. 2024 –- present</p>
 
 Projects
 ======
