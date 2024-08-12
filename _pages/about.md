@@ -16,6 +16,11 @@ Education
 
   <!-- Sophomore year Average Score: 89.263, Junior year Average Score: 92.667 -->
 
+Employment
+======
+* Research Assistant in Harbin Institute of Technology, Shenzhen (HITsz)
+  <p align="right">Aug. 2024 -- present</p>
+
 Research Interests
 ======
 * Natural Language Processing
@@ -24,11 +29,6 @@ Research Interests
 
 <!-- * Network Computing
 * Natural Language Processing -->
-
-Employment
-======
-* Research Assistant in Harbin Institute of Technology, Shenzhen (HITsz)
-  <p align="right">Aug. 2024 –- present</p>
 
 Projects
 ======
